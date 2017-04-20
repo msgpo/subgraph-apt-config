@@ -1,0 +1,4 @@
+Package: xpra 
+Pin: version 0.17.1+dfsg-1
+Pin-Priority: 990
+

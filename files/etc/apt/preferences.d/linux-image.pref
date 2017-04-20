@@ -1,0 +1,16 @@
+Package: linux-image-amd64
+Pin: version *
+Pin-Priority: -1
+
+Package: linux-headers-amd64
+Pin: version *
+Pin-Priority: -1
+
+Package: linux-image-4.7.0-1-amd64
+Pin: version *
+Pin-Priority: -1
+
+Package: linux-headers-4.7.0-1-amd64
+Pin: version *
+Pin-Priority: -1
+
