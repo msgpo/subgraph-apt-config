@@ -1,3 +1,10 @@
+subgraph-apt-config (1.5.1-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * git-buildpackage
+
+ -- Alexsandr Kibal <ak@subgraph.com>  Sun, 23 Apr 2017 19:34:59 +0000
+
 subgraph-apt-config (1.5) unstable; urgency=medium
 
   * Added more pins against to prevent installation of non-Subgraph kernel
