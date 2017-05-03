@@ -1,0 +1,5 @@
+subgraph-apt-config source: package-installs-apt-preferences
+subgraph-apt-config source: debian-watch-may-check-gpg-signature
+subgraph-apt-config [linux-any]: package-installs-apt-preferences
+subgraph-apt-config [linux-any]: package-installs-apt-preferences
+no-upstream-changelog
